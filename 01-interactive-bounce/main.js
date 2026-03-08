@@ -9,6 +9,8 @@ function setup() {
     //Creating a canvas to draw on, using the existing canvas element.
     createCanvas(600, 600, canvasElement);
     noStroke();
+
+    console.log("Setup!", width
 }
 
 function draw() {
